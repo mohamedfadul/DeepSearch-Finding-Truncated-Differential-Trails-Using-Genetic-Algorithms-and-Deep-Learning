@@ -1,5 +1,5 @@
 # DeepGen-Finding-Truncated-Differential-Trails-Using-Genetic-Algorithms-and-Deep-Learning
-This repository contains code for three different files:
+# This repository contains code for three different files:
   •	ANN Baseline Model to Predict Trail Validity
   •	Neural Network Model and GA to Predict TWINE Round 15
   •	Verification Script
