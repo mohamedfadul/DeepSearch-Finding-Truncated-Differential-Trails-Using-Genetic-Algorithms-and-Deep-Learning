@@ -23,7 +23,7 @@
   4.	Run the cells in the notebook.
 # Citation
   If you use the code in your research, please cite the following paper:
-  •	CryptoUSM. (2023). DeepGen: A deep learning framework for predicting trail validity and TWINE round winners. arXiv preprint arXiv:2307.00001.
+  CryptoUSM. (2023). DeepGen: A deep learning framework for predicting trail validity and TWINE round winners. arXiv preprint arXiv:2307.00001.
 # License
   The code is licensed under the MIT License.
 # Disclaimer
