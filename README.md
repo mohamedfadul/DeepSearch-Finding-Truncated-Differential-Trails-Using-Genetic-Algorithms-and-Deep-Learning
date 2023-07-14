@@ -12,6 +12,7 @@
 # How to use the code
   1.  Open the code on the google colab.
   2.	Run the cells.
+  3.	All the model to connect to google drive.
 # Citation
   If you use the code in your research, please cite the following paper:
   CryptoUSM. (2023). DeepGen: A deep learning framework for predicting trail validity and TWINE round winners. arXiv preprint arXiv:2307.00001.
