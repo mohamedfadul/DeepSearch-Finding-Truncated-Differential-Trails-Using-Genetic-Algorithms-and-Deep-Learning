@@ -13,10 +13,5 @@
   1.  Open the code on the google colab.
   2.	Run the cells.
   3.	All the model to connect to google drive.
-# Citation
-  If you use the code in your research, please cite the following paper:
-  CryptoUSM. (2023). DeepGen: A deep learning framework for predicting trail validity and TWINE round winners. arXiv preprint arXiv:2307.00001.
-# License
-  The code is licensed under the MIT License.
 # Disclaimer
   The code is provided as-is and the author does not offer any warranty or guarantee. The author is not responsible for any damages that may occur as a result of using the code.
